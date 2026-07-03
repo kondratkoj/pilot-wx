@@ -1,0 +1,5 @@
+let rawMETAR = "KRUE 010053Z AUTO 04005KT 10SM TS FEW060 SCT070 SCT085 29/23 A3001 RMK AO2"
+
+let arr = rawMETAR.split(" ")
+
+console.log(arr)
